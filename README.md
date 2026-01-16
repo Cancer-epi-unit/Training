@@ -1,5 +1,15 @@
 # Training
-CEU training
+
+## CEU training
+
+Training task:
+
+- Clone this repository to your local machine
+- Add your name to the "say_gday.txt" file
+- Commit your change, with a sensible commit message
+- Push your changes to github
+
+## Markdown formatting
 
 This is an example
 $\color{red}{\text{of some red text!!!!}}$
