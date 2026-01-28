@@ -1,5 +1,5 @@
 Josh
-M a r i e   : )   ( a d d e d   a   s m a l l   t u t o r i a l   i f   a n y o n e   h a s   t r o u b l e   w i t h   s t a r t i n g   t h e i r   s s h   a g e n t   o n   W i n d o w s ) 
+Marie :) (added a small tutorial if anyone has trouble with starting their ssh agent on Windows) 
  
  Jennifer (added task instructions to the README.md)
 S T T 
